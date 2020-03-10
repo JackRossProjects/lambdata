@@ -12,9 +12,10 @@ setup(
     author_email="jackross210@gmail.com",
     description="test package",
     long_description=long_description,
-    long_description_content_type="text/markdown", # required if using a md file for long desc
-    #license="MIT",
+    long_description_content_type="text/markdown",
+    # required if using a md file for long desc
+    # license="MIT",
     url="https://github.com/jackrossprojects/lambdata",
-    #keywords="",
-    packages=find_packages() # ["my_lambdata"]
+    # keywords="",
+    packages=find_packages()  # ["my_lambdata"]
 )
