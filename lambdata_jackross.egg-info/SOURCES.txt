@@ -1,0 +1,9 @@
+README.md
+setup.py
+lambdata_jackross.egg-info/PKG-INFO
+lambdata_jackross.egg-info/SOURCES.txt
+lambdata_jackross.egg-info/dependency_links.txt
+lambdata_jackross.egg-info/top_level.txt
+my_lambdata/__init__.py
+my_lambdata/my_mod.py
+my_lambdata/my_script.py
